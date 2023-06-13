@@ -1,0 +1,33 @@
+.map-back {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 1700px;
+  background-color: #ff0000;
+  border-top: solid 10px black;
+  border-bottom: solid 10px black;
+  margin-top: 445px;
+  margin-bottom: 200px;
+}
+
+.operation {
+  display: flex;
+  margin-left: 50px;
+  margin-right: 225px;
+  color: white;
+}
+
+.map {
+  display:flex;
+  flex: 1;
+  justify-content: center;
+  
+}
+
+.perimeter {
+  display:flex;
+  margin-left: 225px;
+  margin-right: 50px; 
+  color: white;
+}

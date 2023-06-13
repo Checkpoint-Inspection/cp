@@ -1,0 +1,78 @@
+.blog-back {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  width: 1700px;
+  background-color: #ff0000;
+  border-top: solid 10px black;
+  border-bottom: solid 10px black;
+  margin-top: 245px;
+  margin-bottom: 200px;
+} 
+
+.thumbnail {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  width: 200px;
+  height: auto;
+  
+}
+
+.thumb1 {
+  
+  background-color: #333333;
+  border: solid 3px black;
+  cursor: pointer;
+}
+.wte {
+  text-decoration: none;
+  color: white;
+}
+
+.thumb2 {
+
+  background-color: #333333;
+  border: solid 3px black;
+  cursor: pointer;
+}
+
+.licensed {
+  width: 200px;
+  height: auto;
+  text-decoration: none;
+  color: white;
+}
+
+.thumb3 {
+  cursor: pointer;
+  background-color: #333333;
+  border: solid 3px black;
+}
+
+.pass-fail {
+  width: 200px;
+  height: auto;
+  text-decoration: none;
+  color: white;
+}
+
+.hi {
+  width: 200px;
+  height: 133.333;
+}
+
+.btitle {
+  display: flex;
+  justify-content: center;
+  margin-left: 5px;
+  
+}
+
+.bdate {
+  display: flex;
+  justify-content: center;
+  
+}
+

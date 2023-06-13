@@ -1,0 +1,188 @@
+.meet {
+  font-family: fs;
+  color: #ff0000;
+  text-align: center;
+  margin-top: 245px;
+}
+
+.background {
+  display: flex;
+  background-color: black;
+  align-items: center;
+  width: 1700px;
+  margin-top: 50px;
+  height: 330px;
+  border-top: solid 3px #ff0000;
+  border-bottom: solid 3px #ff0000;
+}
+.owner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.wlogo {
+  display: flex;
+  height: 40px;
+  width: auto;
+  margin-bottom: 25px;
+}
+.name {
+  color: white;
+  font-size: 25px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.inspector {
+  color: white;
+  font-size: 20px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.grey-box {
+  display: flex;
+  justify-content: center;
+  background-color: #333333;
+  height: 250px;
+}
+
+.about-me {
+  color: white;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.me {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  width: auto;
+  height: 300px;
+  margin-right: 100px;
+  border: solid 15px #333333;
+  padding: 15px
+}
+
+.accolades {
+  font-family: fs;
+  color: #ff0000;
+  text-align: center;
+}
+
+.acc-back {
+  display: flex;
+  flex-direction: row;
+  background-color: #333333;
+  width: 1700px;
+  height: auto;
+  margin-top: 50px;
+  border-top: solid 7px black;
+  border-bottom: solid 7px black;
+}
+.texas-cert {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  align-items: center;
+  justify-content: center;
+}
+.texas {
+  color: white;
+  margin-bottom: 0px;
+}
+.trec {
+  color: white;
+  margin-top: 0px;
+}
+.certificates {
+  margin-left: 45px;
+  padding-bottom: 10px;
+}
+.inhead {
+  display: flex;
+
+}
+.nachi {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  align-items: center;
+}
+.internachi {
+  color: white;
+  padding-top: 25px;
+}
+
+.mentor {
+  font-family: fs;
+  color: #ff0000;
+  text-align: center;
+}
+
+.background-mark {
+  display: flex;
+  background-color: black;
+  align-items: center;
+  width: 1700px;
+  height: auto;
+  border-top: solid 3px #ff0000;
+  border-bottom: solid 3px #ff0000;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.owner-mark {
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 50px;
+  margin-left: 180px;
+  color: white;
+}
+.wlogo {
+  height: 40px;
+}
+
+.red-box {
+  display: flex;
+  justify-content: center;
+  background-color: #ff0000;
+  height: 130px;
+  align-items: center;
+}
+.about-me {
+  color: white;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-mark {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 140px;
+  width: auto;
+  margin-right: 180px;
+  border: solid 10px #ff0000;
+  padding: 15px;
+}

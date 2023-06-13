@@ -1,0 +1,87 @@
+.request {
+  margin-top: 245px;
+  color: #ff0000;
+  font-family: fs;
+  text-align: center;
+}
+
+.contact-background {
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: space-evenly;
+  width: 1700px;
+  height: 775px;
+  background-color: #ff0000;
+  border-top: solid 10px black;
+  border-bottom: solid 10px black;
+}
+
+.black-box-schedule {
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 575px;
+  width: 600px;
+  background-color: black;
+  border: solid 10px #333333;
+  color: white;
+  margin-top: 100px;
+}
+
+.sch-logo {
+  height: 40px;
+  margin-bottom: 20px;
+}
+
+.property {
+  display: flex;
+  justify-content: center;
+}
+
+.form-groupl {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+
+.form-group {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+label {
+  width: 180px; /* Adjust the width as needed */
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="date"] {
+  width: 300px; /* Adjust the width as needed */
+}
+
+.submit-btn {
+  font-family: fs;
+  font-size: 25px;
+  background-color: #ff0000;
+  color: white;
+  margin: 0 auto;
+  display: block;
+  border-color: white;
+  padding-top: 17px;
+  padding-bottom: 17px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 11px;
+  border-width: 1px;
+  cursor: pointer;
+}
+
+.submit-btn:hover {
+  background-color: #990000;
+}
