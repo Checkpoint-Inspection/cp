@@ -13,6 +13,23 @@
      </style>
   </head>
   <body>
+    <?php
+    // PHP code for visit counter
+    if (file_exists('counter.txt')) {
+        // Read the current count from the file
+        $count = file_get_contents('counter.txt');
+
+        // Increment the count by 1
+        $count++;
+
+        // Update the count in the file
+        file_put_contents('counter.txt', $count);
+    } else {
+        // Counter file doesn't exist, create it with initial count as 1
+        $count = 1;
+        file_put_contents('counter.txt', $count);
+    }
+?>
     <div class="header">    
       <div class="waystocontact">
         
