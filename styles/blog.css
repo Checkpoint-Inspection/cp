@@ -58,6 +58,18 @@
   color: white;
 }
 
+.thumb4 {
+  cursor: pointer;
+  background-color: #333333;
+  border: solid 3px black;
+}
+
+.checkpoints-for-first-time-home-buyers {
+  width: 200px;
+  height: auto;
+  text-decoration: none;
+  color: white;
+}
 .hi {
   width: 200px;
   height: 133.333;
